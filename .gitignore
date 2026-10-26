@@ -88,7 +88,7 @@ docker-compose.override.yml
 *.log
 logs/
 
-# Harmony-filtering demo data (not checked in)
+# Harmony-compositor demo data (not checked in)
 data/
 docs/data/
 
